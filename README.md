@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning web design
+- 👯 I’m looking to collaborate on progects
+- 🤔 I’m looking for help with jobs
+- 💬 Ask me about web design
+- 📫 How to reach me: @nzubecoder on twitter and henrybliss673@gmail.com
 <!--
 **nzubecoder/nzubecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
